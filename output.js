@@ -1,0 +1,1 @@
+alert(date + "-" + month + "-" + year);
